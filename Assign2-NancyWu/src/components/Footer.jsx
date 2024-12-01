@@ -2,7 +2,6 @@ import React from "react"; // Import React to use JSX
 import IonIcon from "@reacticons/ionicons"; // Import IonIcons for social media icons
 import Logo from "/src/assets/logo.svg"; // Import logo image
 
-
 function Footer () {
     return (
        <div className="footer">
