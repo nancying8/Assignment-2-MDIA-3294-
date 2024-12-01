@@ -4,7 +4,6 @@ import { motion } from "framer-motion"; // Import motion from Framer Motion for 
 // WaveTitle component creates a waving text animation effect for each letter by using {motion}
 // {text} is a prop that pass the data to other file and able to put specific words.
 // Split the provided text into an array of individual letters
-
 const WaveTitle = ({ text }) => {
 const letters = text.split(""); 
   
